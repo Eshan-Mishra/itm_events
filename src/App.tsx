@@ -8,8 +8,8 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [filters, setFilters] = useState<FilterState>({
     dateRange: {
-      from: '2025-02-19',
-      to: '2025-02-19',
+      from: new Date().toISOString().split('T')[0], // Use today's date
+      to: '',
     },
     category: '',
     location: '',

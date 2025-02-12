@@ -1159,7 +1159,7 @@
         },
         {
           "date": "2025-02-20",
-          "event": "Football",
+          "sport": "Football",
           "location": "Ashoka Garden",
           "time": "11:00am-4:00pm"
         },
@@ -1340,7 +1340,7 @@
           "date": "2025-02-21",
           "time": "11:00 AM to 4:00 PM",
           "category": "Technical",
-          "event": "Calligraphy Workshop",
+          "event": "Calligraphy",
           "location": "Gazebo"
         },
         {
@@ -1452,7 +1452,7 @@
           "date": "2025-02-20",
           "time": "11:00 AM to 4:00 PM",
           "category": "Technical",
-          "event": "Ri Hunt",
+          "event": "Rj Hunt",
           "location": "SOHSS Studio"
         },
         {
