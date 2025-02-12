@@ -6,10 +6,12 @@ import type { Event, FilterState } from './types/events';
 
 function App() {
   const [loading, setLoading] = useState(true);
+  const today = new Date().toLocaleDateString('en-CA'); // Output: "2024-05-21"
+
   const [filters, setFilters] = useState<FilterState>({
-    dateRange: {
-      from: new Date().toISOString().split('T')[0], // Use today's date
-      to: '',
+    dateRange : {
+    from: today,
+    to: '',
     },
     category: '',
     location: '',
