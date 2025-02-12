@@ -1,0 +1,1531 @@
+{
+  "events": [
+    {
+      "event": "INTER SCHOOL SPORTS FEST",
+      "location": "ITM SLS BARODA UNIVERSITY",
+      "event_id": "ILLUMINATI 2015",
+      "dates": "7-16 February 2025",
+      "schedule": [
+        {
+          "date": "2025-02-07",
+          "time": "8:30am-10:15am",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 1,
+          "team1": "SOB Dragons",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "10:45am-12:30pm",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 2,
+          "team1": "The Cure Master",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "1:15pm-2:45pm",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 3,
+          "team1": "The Cure Master",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "3:15pm-5:00pm",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 4,
+          "team1": "Healing Heroes",
+          "team2": "SOTE & SITARE"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "8:30am-10:15am",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 1,
+          "team1": "SOTE k SITARE",
+          "team2": "The Cure Master"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "10:45am-12:30pm",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 2,
+          "team1": "SOB Dragons",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "1:15pm-2:45pm",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 3,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "SOTE k SITARE"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "3:15pm-5:00pm",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 4,
+          "team1": "The Cure Master",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "8:30am-10:15am",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 1,
+          "team1": "Healing Heroes",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "10:45am-12:30pm",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": 2,
+          "team1": "SOTE K SITARE",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "1:00pm-1:30pm",
+          "sport": "Cricket",
+          "category": "Girls",
+          "match": 1,
+          "team1": "Healing Heroes",
+          "team2": "SOTE k SITARE"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "1:30pm-2:00pm",
+          "sport": "Cricket",
+          "category": "Girls",
+          "match": 2,
+          "team1": "SOB Dragons",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "2:00pm-4:30pm",
+          "sport": "100 meter",
+          "category": "Mixed",
+          "description": "Time trial",
+          "participants": "All"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "10:00am-10:30am",
+          "sport": "Volleyball",
+          "category": "Boys",
+          "match": 1,
+          "team1": "Healing Heroes",
+          "team2": "SOTE k SITARE"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "11:00am-11:30am",
+          "sport": "Volleyball",
+          "category": "Boys",
+          "match": 2,
+          "team1": "SOB Dragons",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "11:30am-12:00pm",
+          "sport": "Volleyball",
+          "category": "Boys",
+          "match": 3,
+          "team1": "The Cure Master",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "12:00pm-12:30pm",
+          "sport": "Volleyball",
+          "category": "Girls",
+          "match": 1,
+          "team1": "SOTE K SITARE",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "12:30pm-1:00pm",
+          "sport": "Volleyball",
+          "category": "Girls",
+          "match": 2,
+          "team1": "SOB Dragons",
+          "team2": "The Cure Master"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "2:00pm-2:30pm",
+          "sport": "Volleyball",
+          "category": "Boys",
+          "match": 4,
+          "team1": "SOTE K SITARE",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "2:30pm-3:00pm",
+          "sport": "Volleyball",
+          "category": "Girls",
+          "match": 3,
+          "team1": "SOTE K SITARE",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "3:00pm-3:30pm",
+          "sport": "Volleyball",
+          "category": "Girls",
+          "match": 4,
+          "team1": "Healing Heroes",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "3:30pm-4:00pm",
+          "sport": "Volleyball",
+          "category": "Boys",
+          "match": 5,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "The Cure Master"
+        }
+      ]
+    },
+    {
+      "event": "INTER SCHOOL SPORTS FEST",
+      "location": "ITM SLS BARODA UNIVERSITY",
+      "event_id": "ILLUMINATI 2025",
+      "dates": "7-16 February 2025",
+      "schedule": [
+        {
+          "date": "2025-02-12",
+          "time": "10:00am-10:45am",
+          "sport": "Kabaddi",
+          "category": "Boys",
+          "match": 1,
+          "team1": "SOB Dragons",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "10:00am-10:30am",
+          "sport": "Cricket",
+          "category": "Girls",
+          "match": 3,
+          "team1": "The Cure Master",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "11:00am-11:45am",
+          "sport": "Kabaddi",
+          "category": "Boys",
+          "match": 2,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "The Cure Master"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "11:00am-11:30am",
+          "sport": "Cricket",
+          "category": "Girls",
+          "match": 4,
+          "team1": "SOTE K SITARE",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "12:00pm-12:45pm",
+          "sport": "Kabaddi",
+          "category": "Boys",
+          "match": 3,
+          "team1": "SOTE & SITARE",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "1:00pm-1:45pm",
+          "sport": "Kabaddi",
+          "category": "Boys",
+          "match": 4,
+          "team1": "Healing Heroes",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "2:00pm-2:30pm",
+          "sport": "Kabaddi",
+          "category": "Girls",
+          "match": 1,
+          "team1": "The Cure Master",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "2:30pm-3:00pm",
+          "sport": "Kabaddi",
+          "category": "Girls",
+          "match": 2,
+          "team1": "SOB Dragons",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "3:00pm-3:45pm",
+          "sport": "Kabaddi",
+          "category": "Boys",
+          "match": 5,
+          "team1": "The Cure Master",
+          "team2": "SOTE & SITARE"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "10:00am-10:30am",
+          "sport": "Basketball",
+          "category": "Boys",
+          "match": 1,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "11:00am-11:30am",
+          "sport": "Basketball",
+          "category": "Girls",
+          "match": 1,
+          "team1": "Healing Heroes",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "11:30am-12:00pm",
+          "sport": "Basketball",
+          "category": "Boys",
+          "match": 2,
+          "team1": "SOTE K SITARE",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "12:00pm-12:30pm",
+          "sport": "Basketball",
+          "category": "Girls",
+          "match": 2,
+          "team1": "The Cure Master",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "12:30pm-1:00pm",
+          "sport": "Basketball",
+          "category": "Boys",
+          "match": 3,
+          "team1": "SOTE K SITARE",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "2:00pm-2:30pm",
+          "sport": "Basketball",
+          "category": "Girls",
+          "match": 3,
+          "team1": "The Cure Master",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "2:30pm-3:00pm",
+          "sport": "Basketball",
+          "category": "Girls",
+          "match": 4,
+          "team1": "SOB Dragons",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "4:00pm-4:30pm",
+          "sport": "Cricket",
+          "category": "Girls",
+          "match": 5,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "The Cure Master"
+        }
+      ]
+    },
+    {
+      "event": "INTER SCHOOL SPORTS FEST",
+      "location": "ITM SLS BARODA UNIVERSITY",
+      "event_id": "ILLUMINATI 2025",
+      "dates": "7-16 February 2025",
+      "schedule": [
+        {
+          "date": "2025-02-14",
+          "time": "10:00am-10:30am",
+          "sport": "Chess",
+          "category": "Boys/Girls",
+          "match": 1,
+          "team1": "The Cure Master",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "10:30am-11:00am",
+          "sport": "Chess",
+          "category": "Boys/Girls",
+          "match": 2,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "11:00am-11:30am",
+          "sport": "Chess",
+          "category": "Boys/Girls",
+          "match": 3,
+          "team1": "SOTE & SITARE",
+          "team2": "The Cure Master"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "11:30am-12:00pm",
+          "sport": "Chess",
+          "category": "Boys/Girls",
+          "match": 4,
+          "team1": "Healing Heroes",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "12:00pm-12:30pm",
+          "sport": "Chess",
+          "category": "Boys/Girls",
+          "match": 5,
+          "team1": "SOB Dragons",
+          "team2": "SOTE & SITARE"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "2:00pm-2:30pm",
+          "sport": "Badminton",
+          "match": 1,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "Healing Heroes"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "2:30pm-3:00pm",
+          "sport": "Badminton",
+          "match": 2,
+          "team1": "SOTE & SITARE",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "3:00pm-3:30pm",
+          "sport": "Badminton",
+          "match": 3,
+          "team1": "The Cure Master",
+          "team2": "SOCSET GLORY WINGS"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "3:30pm-4:00pm",
+          "sport": "Badminton",
+          "match": 4,
+          "team1": "Healing Heroes",
+          "team2": "SOTE & SITARE"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "4:00pm-4:30pm",
+          "sport": "Badminton",
+          "match": 5,
+          "team1": "SOB Dragons",
+          "team2": "The Cure Master"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "9:30am-10:30am",
+          "sport": "Kabaddi",
+          "category": "Boys",
+          "match": "Final",
+          "details": "YTD"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "10:30am-11:30am",
+          "sport": "Basketball",
+          "category": "Girls & Boys",
+          "match": "Final",
+          "details": "YTD"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "11:30am-12:30pm",
+          "sport": "Badminton",
+          "match": "Final",
+          "details": "YTD"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "2:00pm-3:00pm",
+          "sport": "Chess",
+          "category": "Boys & Girls",
+          "match": "Final",
+          "details": "YTD"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "3:00pm-4:00pm",
+          "sport": "Volleyball",
+          "category": "Boys & Girls",
+          "match": "Final",
+          "details": "YTD"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "4:00pm-4:30pm",
+          "sport": "Cricket",
+          "category": "Girls",
+          "match": "Final",
+          "details": "YTD"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "10:00am-10:30am",
+          "sport": "Kabaddi",
+          "category": "Girls",
+          "match": 3,
+          "team1": "SOTE K SITARE",
+          "team2": "The Cure Master"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "10:30am-11:00am",
+          "sport": "Kabaddi",
+          "category": "Girls",
+          "match": 4,
+          "team1": "SOCSET GLORY WINGS",
+          "team2": "SOB Dragons"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "11:00am-11:30am",
+          "sport": "Kabaddi",
+          "category": "Girls",
+          "match": 5,
+          "team1": "Healing Heroes",
+          "team2": "SOTE K SITARE"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "1:00pm-4:30pm",
+          "sport": "Long Jump",
+          "category": "Girls & Boys",
+          "details": "Time Trail Event (Best of Three)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "10:00am-11:00am",
+          "sport": "Kabaddi",
+          "category": "Girls",
+          "match": "Final",
+          "details": "YTD"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "9:30am",
+          "sport": "Cricket",
+          "category": "Boys",
+          "match": "Final",
+          "details": "YTD"
+        }
+      ]
+    },
+    {
+      "event": "INTER UNIVERSITY SPORTS FEST",
+      "location": "ITM SLS BARODA UNIVERSITY",
+      "event_id": "INTER_UNI_2025",
+      "dates": "7-22 February 2025",
+      "schedule": [
+        {
+          "date": "2025-02-11",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 1,
+          "team1": "GATI SHAKTI VIDYALAYA (PRATEEK PARSOON)",
+          "team2": "PARUL UNIVERSITY-B (KARAN PATEL)"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 2,
+          "team1": "MSU A (MANAS)",
+          "team2": "PARUL A (ROMIL PATEL)"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 3,
+          "team1": "GTUB (GRADUATE SCHOOL OF PHARMACY DEEP MISTRY)",
+          "team2": "ITM SLS BU-DIAMOND STAR (TUSHAR MOCHI)"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 4,
+          "team1": "PARUL UNIVERSITY B (KARAN PATEL)",
+          "team2": "ITM SLS BU GOLDEN EAGLE (ADITYA DHODD)"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 5,
+          "team1": "PARUL A (ROMIL PATEL)",
+          "team2": "INDUS UNIVERSITY (PRATIK)"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 6,
+          "team1": "NARAYAN BUSINESS SCHOOL (UTSAV PATEL)",
+          "team2": "GTU B GRADUATE SCHOOL OF PHARMACY (DEEP MISTRY)"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 7,
+          "team1": "INDUS UNIVERSITY (PRATIK)",
+          "team2": "MSU A (MANAS)"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 8,
+          "team1": "GATI SHAKTI VIDYALAYA (PRATEEK PARSOON)",
+          "team2": "ITM SLS BU-GOLDEN EAGLE (ADITYA DHODI)"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 9,
+          "team1": "SIGMA INSTITUTE (MAYURDHVAJSINH PARMAR)",
+          "team2": "SUMANDEEP VIDHYAPEETH (GOVIND KEDIA)"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 10,
+          "team1": "NARAYAN BUSINESS SCHOOL (UTSAV PATEL)",
+          "team2": "ITM SLS BU-DIAMOND STAR (TUSHAR MOCHI)"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 11,
+          "team1": "MSU C (ANKUSH KATOCH)",
+          "team2": "LOK JAGRUTI KENDRA UNIVERSITY AHMEDABAD (PREM PORNIKAR)"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 12,
+          "team1": "SUMANDEEP VIDHYAPEETH (GOVIND KEDIA)",
+          "team2": "MSU LAW FACULTY (AZIM SINDHI)"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 13,
+          "team1": "GTU-RAMPURA COLLEGE (TIRTH GADHVIC)",
+          "team2": "UKA TARSADIA UNIVERSITY (SHIV BHAKTA)"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 14,
+          "team1": "MSU LAW FACULTY (AZIM SINDHI)",
+          "team2": "SIGMA INSTITUTE (MAYURDHVAJ SINH)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 15,
+          "team1": "LOK JAGRUTI KENDRA UNIVERSITY AHMEDABAD (PREM PORNIKAR)",
+          "team2": "NARMADA COLLEGE OF MANAGEMENT (HET PARIKH)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 16,
+          "team1": "INTERNATIONAL INSTITUTE OF SPORTS MGMT. MUMBAI (SHASHANK BHAMBI)",
+          "team2": "UKA TARSADIA UNIVERSITY (SHIV BHAKTA)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 17,
+          "team1": "INTERNATIONAL INSTITUTE OF SPORTS MGMT. MUMBAI (SHASHANK BHAMBI)",
+          "team2": "GTU-RAMPURA COLLEGE (TIRTH GADHVIC)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 18,
+          "team1": "NARMADA COLLEGE OF MANAGEMENT (HET PARIKH)",
+          "team2": "MSU-C (ANKUSH KATOCH)"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 19,
+          "team1": "GROUP POSITION 3",
+          "team2": "GROUP POSITION 6"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 20,
+          "team1": "GROUP POSITION 4",
+          "team2": "GROUP POSITION 5"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 21,
+          "team1": "GROUP POSITION 1",
+          "team2": "QUARTER FINAL-2 WINNER"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "1:15pm-4:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 22,
+          "team1": "GROUP POSITION 2",
+          "team2": "QUARTER FINAL-1 WINNER"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "9:15am-12:35pm",
+          "sport": "Cricket",
+          "category": "T20",
+          "match": 23,
+          "team1": "SEMI FINAL-1 WINNER",
+          "team2": "SEMI FINAL-2 WINNER"
+        }
+      ]
+    },
+    {
+      "event": "INTER UNIVERSITY SPORTS FEST",
+      "location": "ITM SLS BARODA UNIVERSITY",
+      "event_id": "INTER_UNI_VOLLEYBALL_2025",
+      "dates": "17-22 February 2025",
+      "schedule": [
+        {
+          "date": "2025-02-17",
+          "time": "11:00am-12:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 1,
+          "team1": "Parul University (Tarun)",
+          "team2": "Gati Shakti (Prateek)"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "12:00pm-1:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 2,
+          "team1": "Narayan Business School (Baltej)",
+          "team2": "ITMBU"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "1:00pm-2:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 3,
+          "team1": "Sigma Ins of Pharmacy (Ashish)",
+          "team2": "Sumandeep (Suraj)"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "2:00pm-3:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 4,
+          "team1": "MSU (Kanojia)",
+          "team2": "UTU (Ruchit)"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "3:00pm-4:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 5,
+          "team1": "Pioneer (Vansh)",
+          "team2": "Parul University (Tarun)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "11:00am-12:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 6,
+          "team1": "UTU (Ruchit)",
+          "team2": "Pioneer (Vansh)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "12:00pm-1:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 7,
+          "team1": "MSU (Kanojia)",
+          "team2": "Sumandeep (Suraj)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "1:00pm-2:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 8,
+          "team1": "ITMBU",
+          "team2": "Sigma Ins of Pharmacy (Ashish)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "2:00pm-3:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 9,
+          "team1": "Gati Shakti (Prateek)",
+          "team2": "Narayan Business School (Baltej)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00am-12:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 10,
+          "team1": "Parul University (Tarun)",
+          "team2": "Narayan Business School (Baltej)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "12:00pm-1:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 11,
+          "team1": "Gati Shakti (Prateek)",
+          "team2": "ITMBU"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "1:00pm-2:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 12,
+          "team1": "Sigma Ins of Pharmacy (Ashish)",
+          "team2": "Sumandeep (Suraj)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "2:00pm-3:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 13,
+          "team1": "MSU (Kanojia)",
+          "team2": "UTU (Ruchit)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "3:00pm-4:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 14,
+          "team1": "Pioneer (Vansh)",
+          "team2": "Gati Shakti (Prateek)"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00am-12:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 15,
+          "team1": "Sumandeep (Suraj)",
+          "team2": "Pioneer (Vansh)"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "12:00pm-1:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 16,
+          "team1": "Sigma Ins of Pharmacy (Ashish)",
+          "team2": "UTU (Ruchit)"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "1:00pm-2:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 17,
+          "team1": "Narayan Business School (Baltej)",
+          "team2": "MSU (Kanojia)"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "2:00pm-3:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 18,
+          "team1": "Parul University (Tarun)",
+          "team2": "ITMBU"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "10:00am-11:00am",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 19,
+          "team1": "Semi Final-1 Winner",
+          "team2": "Semi Final-2 Winner"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "10:30am-11:30am",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 20,
+          "team1": "Semi Final-1 Winner",
+          "team2": "Semi Final-2 Winner"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "3:00pm-4:00pm",
+          "sport": "Volleyball",
+          "category": "Men",
+          "match": 21,
+          "team1": "Final Winner",
+          "team2": "Final Runner-Up"
+        }
+      ]
+    },
+    {
+      "event": "INTER UNIVERSITY SPORTS FEST",
+      "location": "ITM SLS BARODA UNIVERSITY",
+      "event_id": "INTER_UNI_BASKETBALL_2025",
+      "dates": "17-22 February 2025",
+      "tournament": "Basketball",
+      "format": "4 Matches Per Team",
+      "schedule": [
+        {
+          "date": "2025-02-17",
+          "time": "11:00am-12:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 1,
+          "team1": "Parul University (Yashira)",
+          "team2": "UTU (Chayan)"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "12:00pm-1:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 2,
+          "team1": "MSU (Mihir)",
+          "team2": "ITMBU"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "1:00pm-2:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 3,
+          "team1": "Gati Shakti (Prateek)",
+          "team2": "UTU (Krish)"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "2:00pm-3:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 4,
+          "team1": "Parul Knight (Marshall)",
+          "team2": "Parul University (Yashraj)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "11:00am-12:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 5,
+          "team1": "UTU (Krish)",
+          "team2": "Parul Knight (Marshall)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "12:00pm-1:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 6,
+          "team1": "ITMBU",
+          "team2": "Gati Shakti (Prateek)"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "1:00pm-2:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 7,
+          "team1": "UTU (Chayan)",
+          "team2": "MSU (Mihir)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00am-12:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 8,
+          "team1": "Parul University (Yashraj)",
+          "team2": "MSU (Mihir)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "12:00pm-1:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 9,
+          "team1": "UTU (Chayan)",
+          "team2": "ITMBU"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "1:00pm-2:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 10,
+          "team1": "Gati Shakti (Prateek)",
+          "team2": "Parul Knight (Marshall)"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "2:00pm-3:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 11,
+          "team1": "UTU (Krish)",
+          "team2": "UTU (Chayan)"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00am-12:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 12,
+          "team1": "Parul University (Yashraj)",
+          "team2": "Gati Shakti (Prateek)"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "12:00pm-1:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 13,
+          "team1": "MSU (Mihir)",
+          "team2": "UTU (Krish)"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "1:00pm-2:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 14,
+          "team1": "Parul Knight (Marshall)",
+          "team2": "ITMBU"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "11:00am-12:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 15,
+          "team1": "Semi Final-1 Winner",
+          "team2": "Semi Final-2 Winner"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "11:30am-12:30pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 16,
+          "team1": "Semi Final-1 Winner",
+          "team2": "Semi Final-2 Winner"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "2:00pm-3:00pm",
+          "sport": "Basketball",
+          "category": "Men",
+          "match": 17,
+          "team1": "Final Winner",
+          "team2": "Final Runner-Up"
+        }
+      ]
+      
+    },{
+      "event": "On the Spot Events",
+      "location": "Ashoka Garden",
+      "event_id": "INTER_UNI_ON_THE_SPOT_2025",
+      "dates": "17-22 February 2025",
+      "tournament": "Box Cricket",
+      "description": "Fun and engaging on-the-spot events for participants.",
+      "schedule": [
+        {
+          "date": "2025-02-17",
+          "sport": "Box Cricket",
+          "location": "Ashoka Garden",
+          "time": "11:00am-4:00pm"
+        },
+        {
+          "date": "2025-02-18",
+          "sport": "Box Cricket",
+          "location": "Ashoka Garden",
+          "time": "11:00am-4:00pm"
+        },
+        {
+          "date": "2025-02-19",
+          "sport": "Football",
+          "location": "Ashoka Garden",
+          "time": "11:00am-4:00pm"
+        },
+        {
+          "date": "2025-02-20",
+          "event": "Football",
+          "location": "Ashoka Garden",
+          "time": "11:00am-4:00pm"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "10:00 AM to 11:00 AM",
+          "category": "General",
+          "event": "Inauguration",
+          "location": "To be confirmed"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Robo Soccer",
+          "location": "Area Between EB & CB"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Cryptors",
+          "location": "Ashoka Garden & Mechanical Sem Hall, CB"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 2:00 PM",
+          "category": "Technical",
+          "event": "Chem-O-Car",
+          "location": "Road next to Hostel Mess"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 2:00 PM",
+          "category": "Technical",
+          "event": "Gamejam",
+          "location": "Tim Berners Lee Lab, CB"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Short Film Competition",
+          "location": "BAJMC Classroom"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Shark Tank",
+          "location": "GF Seminar Hall, CB Block"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Clinical Case Study",
+          "location": "FF Seminar Hall, CB Block"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Sci-Tech Innovators",
+          "location": "CB Block Lobby"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Mysteries in Anatomy",
+          "location": "Nursing Black"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Jewellery Making Workshop",
+          "location": "Gazebo"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "2:30 PM to 3:30 PM",
+          "category": "Cultural",
+          "event": "Open Mic",
+          "location": "SOB Amphitheatre"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "To be confirmed",
+          "category": "Cultural",
+          "event": "Kalamkaar",
+          "location": "SOB Plaza"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Cricket",
+          "location": "Cricket Ground"
+        },
+        {
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Basketball",
+          "location": "New Basketball Court"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Volleyball",
+          "location": "Volleyball Court"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter University Powerlifting",
+          "location": "Old Basketball Court"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter University Taekwondo",
+          "location": "Nursing Block"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "5:00 PM to 8:00 PM",
+          "category": "Cultural",
+          "event": "Cultural Events",
+          "location": "Ashoka Garden Stage"
+        },
+        {
+          "date": "2025-02-21",
+          "event": "ILLUMINATI Roadies",
+          "location": "Ashoka Garden",
+          "time": "11:00am-4:00pm"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Robo Race",
+          "location": "Badminton Court Area Between EB & CB"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Code Clash",
+          "location": "NL 1 & NL 2 & NL 3 & NL 4"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00 AM to 5:00 PM",
+          "category": "Technical",
+          "event": "24 Hours Business Hackathon",
+          "location": "GF Seminar Hall, CB Block"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "Whole Day",
+          "category": "Technical",
+          "event": "Hackathon",
+          "location": "Tim Berners Lee Lab, CB"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Reel Making Competition",
+          "location": "Mechanical Seminar Hall, EB"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Calligraphy Workshop",
+          "location": "Gazebo"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Pharma Blend Battle",
+          "location": "SOP Lab"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "Whole Day",
+          "category": "Technical",
+          "event": "Snakes & Ladders 3.0",
+          "location": "Badminton Court Area Between EB & CB"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:00 AM to 7:00 PM",
+          "category": "Technical",
+          "event": "Vyapar Mela",
+          "location": "Road next to Hostel Mess"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Cricket",
+          "location": "Cricket Ground"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Basketball",
+          "location": "New Basketball Court"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Volleyball",
+          "location": "Volleyball Court"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter University Powerlifting",
+          "location": "Old Basketball Court"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter University Taekwondo",
+          "location": "Nursing Block"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "5:00 PM to 8:15 PM",
+          "category": "Cultural",
+          "event": "War of the Bands",
+          "location": "Ashoka Garden Stage"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Fastest Line Follower",
+          "location": "GF CB Block, out of Seminar Hall"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Code Clash",
+          "location": "NL 1-2-3-4"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 2:00 PM",
+          "category": "Technical",
+          "event": "Investment Wizard",
+          "location": "TBL"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "24 Hours Business Hackathon",
+          "location": "GF Seminar Hall, CB Block"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 2:00 PM",
+          "category": "Technical",
+          "event": "Pharma Snakes & Ladders",
+          "location": "Area Between EB & CB"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 2:00 PM",
+          "category": "Technical",
+          "event": "Pharma Catalyst",
+          "location": "FF Sem. Hall, CB Block"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Ri Hunt",
+          "location": "SOHSS Studio"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 2:00 PM",
+          "category": "Technical",
+          "event": "Health Science Model Making Competition",
+          "location": "CB Block Lobby"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Jewellery Making Workshop",
+          "location": "Gazebo"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "11:00 AM to 4:00 PM",
+          "category": "Technical",
+          "event": "Healthcare Puzzle",
+          "location": "Mechanical Seminar Hall"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "2:30 PM to 4:00 PM",
+          "category": "Cultural",
+          "event": "Halla Bol",
+          "location": "SOB Amphitheatre"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Cricket",
+          "location": "Cricket Ground"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Basketball",
+          "location": "New Basketball Court"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter-University Volleyball",
+          "location": "Volleyball Court"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter University Powerlifting",
+          "location": "Old Basketball Court"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "9:00 AM to 5:00 PM",
+          "category": "Sports",
+          "event": "Inter University Taekwondo",
+          "location": "Nursing Block"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "5:00 PM to 8:15 PM",
+          "category": "Cultural",
+          "event": "War of the Bands",
+          "location": "Ashoka Garden Stage"
+        }
+      ]
+    }
+  ]
+}
