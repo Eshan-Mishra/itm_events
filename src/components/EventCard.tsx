@@ -10,55 +10,58 @@ interface EventCardProps {
 
 // Sport images mapping
 const sportImages = {
-  'football': '/sports/football.jpg',
-  'basketball': '/sports/Basket-Ball.jpg',
-  'volleyball': '/sports/VOLLEYBALL.jpg',
-  'cricket': '/sports/cricket.jpg',
-  'long jump': '/sports/longjump.jpg',
-  '100 meter': '/sports/race.png',
-  'powerlifting': '/sports/POWER-LIFTING.jpg',
-  'taekwondo': '/sports/TAEKWONDO-01.jpg',
-  'box cricket': '/sports/cricket.jpg',
-  'kabaddi': '/sports/kabaddi.jpg',      // use all lowercase here
-  'chess': '/sports/Chess.jpg',
-  'badminton': '/sports/badminton.jpg', // also lowercase
+  'football': '/public/sports/football.jpg',
+  'basketball': '/public/sports/Basket-Ball.jpg',
+  'volleyball': '/public/sports/VOLLEYBALL.jpg',
+  'cricket': '/public/sports/cricket.jpg',
+  'long jump': '/public/sports/longjump.jpg',
+  '100 meter': '/public/sports/race.png',
+  'powerlifting': '/public/sports/POWER-LIFTING.jpg',
+  'taekwondo': '/public/sports/TAEKWONDO-01.jpg',
+  'box cricket': '/public/sports/cricket.jpg',
+  'kabaddi': '/public/sports/kabaddi.jpg',      // use all lowercase here
+  'chess': '/public/sports/Chess.jpg',
+  'badminton': '/public/sports/badminton.jpg', // also lowercase
 };
 
 // Event images mapping
 const eventImages = {
-  'robo soccer': '/event/robo-soccer.webp',
-  'cryptors': '/event/New-Cryptors-01.webp',
-  'chem-o-car': '/event/New-Chem-o-car-01.webp',
-  'gamejam': '/event/New-Game-Jam-01.webp',
-  'short film': '/event/New-Short-Film-Making-Competition-01.webp',
-  'shark tank': '/event/New-Shark-Tank-01.webp',
-  'clinical case': '/event/New-Clinical-Case-Study-01.webp',
-  'hackathon': '/event/New-Hackathon-01.webp',
-  'code clash': '/event/New-Codeclash-01.webp',
-  'open mic': '/event/openmic.png',
-  'war of the bands': '/event/battel of bands.png',
-  'illuminati roadies': '/event/roadies.jpg',
-  'vyapar mela': '/event/mela.JPG',
-  'calligraphy':'/event/Calligraphy Workshop.png',
-  'workshop': '/event/jewllery.jpg',
-  'cultural': '/event/cultural-events.jpg',
-  'inauguration':"/event/inaugration.png",
-  'sci-tech innovators':"/event/scitechinovation.jpg",
-  'mysteries in anatomy':"/event/New-Mysteries-of-Anatomy-01.webp",
-  'jewellery making workshop':"/event/jewllery.jpg",
-  'kalamkaar':"/event/kalamkaar.png",
-  'fastest line follower':"/event/Fastest-Line-Follower.webp",
-  'investment wizard':"/event/New-Investment-Wizard-01.webp",
-  'pharma snakes & ladders':"/event/New-Pharma-Snakes-Ladders-01.webp",
-  'pharma catalyst':"/event/New-Pharma-Catalyst-01.webp",
-  'rj hunt':"/event/rjhunt.jpg",
-  'halla bol':"/event/halla bol.jpg",
-  'pharma blend battle':"/event/New-Pharma-Blend-Battle-01.webp",
-  'snakes & ladders 3.0':"/event/New-Snake-and-Ladders-3.0-01.webp",
-  'reel making competition':"/event/New-Reel-making-Challenge-01.webp",
-  'robo race':"/event/Roborace.webp",
-  'healthcare puzzle':"/event/New-Healthcare-Puzzle-01.webp",
-  'health science model making competition':"/event/New-Health-Science-Model-01.webp",
+  'robo soccer': '/public/event/robo-soccer.webp',
+  'cryptors': '/public/event/New-Cryptors-01.webp',
+  'chem-o-car': '/public/event/New-Chem-o-car-01.webp',
+  'gamejam': '/public/event/New-Game-Jam-01.webp',
+  'short film': '/public/event/New-Short-Film-Making-Competition-01.webp',
+  'shark tank': '/public/event/New-Shark-Tank-01.webp',
+  'clinical case': '/public/event/New-Clinical-Case-Study-01.webp',
+  'hackathon': '/public/event/New-Hackathon-01.webp',
+  'code clash': '/public/event/New-Codeclash-01.webp',
+  'open mic': '/public/event/openmic.png',
+  'war of the bands': '/public/event/battel of bands.png',
+  'illuminati roadies': '/public/event/roadies.jpg',
+  'vyapar mela': '/public/event/mela.JPG',
+  'calligraphy':'/public/event/Calligraphy Workshop.png',
+  'workshop': '/public/event/jewllery.jpg',
+  'cultural': '/public/event/cultural-events.jpg',
+  'inauguration':"/public/event/inaugration.png",
+  'sci-tech innovators':"/public/event/scitechinovation.jpg",
+  'mysteries in anatomy':"/public/event/New-Mysteries-of-Anatomy-01.webp",
+  'jewellery making workshop':"/public/event/jewllery.jpg",
+  'kalamkaar':"/public/event/kalamkaar.png",
+  'fastest line follower':"/public/event/Fastest-Line-Follower.webp",
+  'investment wizard':"/public/event/New-Investment-Wizard-01.webp",
+  'pharma snakes & ladders':"/public/event/New-Pharma-Snakes-Ladders-01.webp",
+  'pharma catalyst':"/public/event/New-Pharma-Catalyst-01.webp",
+  'rj hunt':"/public/event/rjhunt.jpg",
+  'halla bol':"/public/event/halla bol.jpg",
+  'pharma blend battle':"/public/event/New-Pharma-Blend-Battle-01.webp",
+  'snakes & ladders 3.0':"/public/event/New-Snake-and-Ladders-3.0-01.webp",
+  'reel making competition':"/public/event/New-Reel-making-Challenge-01.webp",
+  'robo race':"/public/event/Roborace.webp",
+  'healthcare puzzle':"/public/event/New-Healthcare-Puzzle-01.webp",
+  'health science model making competition':"/public/event/New-Health-Science-Model-01.webp",
+  '':"",
+  '':"",
+  '':"",
 };
 
 const getEventImage = (event: ScheduleItem): string => {
@@ -90,10 +93,10 @@ export function EventCard({ event, mainEvent, onSelect }: EventCardProps) {
     >
       <div className="relative">
         <img 
-       src={getEventImage(event)}
-       alt={event.sport || event.event || 'Event'} 
-       className="w-full h-48 object-cover"
-       />
+          src={getEventImage(event)}
+          alt={event.sport || event.event || 'Event'} 
+          className="w-full h-48 object-cover"
+        />
         <div className="absolute top-0 right-0 bg-blue-600 text-white px-3 py-1 m-2 rounded-full text-sm">
           {event.category || 'General'}
         </div>
