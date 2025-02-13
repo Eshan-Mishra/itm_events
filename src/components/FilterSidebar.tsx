@@ -32,10 +32,10 @@ export function FilterSidebar({
 
       <div>
         <h3 className="font-semibold mb-2">Date Range</h3>
-        <div className="space-y-2">
+        <div className="flex flex-row items-center gap-2">
           <input
             type="date"
-            className="w-full p-2 border rounded-lg"
+            className="w-1/2 p-2 border rounded-lg"
             value={filters.dateRange.from}
             onChange={(e) => setFilters(prev => ({
               ...prev,
@@ -44,7 +44,7 @@ export function FilterSidebar({
           />
           <input
             type="date"
-            className="w-full p-2 border rounded-lg"
+            className="w-1/2 p-2 border rounded-lg"
             value={filters.dateRange.to}
             onChange={(e) => setFilters(prev => ({
               ...prev,
