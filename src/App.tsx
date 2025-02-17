@@ -11,7 +11,7 @@ function App() {
   const [filters, setFilters] = useState<FilterState>({
     dateRange : {
     from: today,
-    to: '',
+    to: today,
     },
     category: '',
     location: '',
@@ -140,8 +140,8 @@ function App() {
   const handleClearFilters = () => {
     setFilters({
       dateRange: {
-        from: '2025-02-19',
-        to: '2025-02-19',
+        from: today,
+        to: today,
       },
       category: '',
       location: '',
